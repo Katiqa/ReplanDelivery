@@ -1,0 +1,1 @@
+[![Java CI with Gradle](https://github.com/Katiqa/ReplanDelivery/actions/workflows/gradle.yml/badge.svg?event=push)](https://github.com/Katiqa/ReplanDelivery/actions/workflows/gradle.yml)
